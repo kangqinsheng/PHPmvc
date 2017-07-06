@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databases>
+  <database isuse="true">
+    <dsn>mysql:host=localhost;dbname=test</dsn>
+    <username>root</username>
+    <passwd>tiger</passwd>
+  </database>
+  <database isuse="false">
+    <dsn>mysql:host=localhost;dbname=aaa</dsn>
+    <username>yl</username>
+    <passwd>123</passwd>
+  </database>
+</databases>

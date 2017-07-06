@@ -1,0 +1,17 @@
+{
+  "name" : "",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ],
+  "urlpatterns":{
+     "index":["control\\IndexControl","index"]
+  }
+}
+
+
+
+
+
+
+
